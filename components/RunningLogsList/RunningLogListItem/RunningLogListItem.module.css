@@ -1,0 +1,28 @@
+.RunningLogListItem {
+    background-color: white;
+}
+
+.RunningLogListItem:hover {
+    background-color: lightcyan;
+}
+
+.RunningLogListItemClicked {
+    background-color: lightcyan;
+}
+
+.RunningLogListItemFailed {
+    color: crimson;
+}
+
+.RunningLogListItem a {
+    text-decoration: none;
+}
+
+.RunningLogListItem a:link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.RunningLogListItemNumeric {
+    text-align: center;
+}
